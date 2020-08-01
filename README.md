@@ -1,5 +1,5 @@
 # Extremely-Sensitive-Seismometer-with-NB-IoT
-Original Arduino code part Sensor Measuring and filtering : https://create.arduino.cc/projecthub/mircemk/extremely-sensitive-cheap-homemade-seismometer-175231
+Arduino code part Sensor Measuring and filtering : https://create.arduino.cc/projecthub/mircemk/extremely-sensitive-cheap-homemade-seismometer-175231
 
 
 there are 2 part. First is  Sensor Measuring and filtering. From Original code, I've changed some code to communicate between two Arduino UNO board with I2C protocol. 
